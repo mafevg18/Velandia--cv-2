@@ -62,30 +62,20 @@ career-profile:
   Me caracterizo por la capacidad de aprender y adaptarme a nuevas tecnologías, así como por el compromiso con la seguridad, la eficiencia y la innovación en cada proyecto, contribuyendo a la transformación digital y al fortalecimiento de la infraestructura tecnológica de las organizaciones.
 
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - Nombre: Colegio
+        Colegio: Liceo Campo David
+        time: 2013 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Se realizo primaria, secundaria y bachillerato. Enfoque en ciencias naturales, matemáticas e inglés.
+        
+      - Nombre: Ingeniería de Sistemas
+        universidad: Pontificia Universidad Javeriana
+        time: 2024 - 2027
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Pregrado de sistemas, con enfásis en ciberseguridad. Lenguajes fuertes C++.
+          
 
 experiences:
     title: Experiences
